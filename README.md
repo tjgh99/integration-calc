@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello 👋
 
 <!--
 **tjgh99/tjgh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

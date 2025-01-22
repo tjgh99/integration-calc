@@ -1,4 +1,4 @@
-# this is python code for an integral calculator , enter sec x as 1/cos x, same pattern for csc x and cot x.
+# this is python code for an integral calculator, enter sec x as 1/cos x, same pattern for csc x and cot x.
 
 <!--
 **tjgh99/tjgh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

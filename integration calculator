@@ -23,7 +23,7 @@ def index():
             x = sp.symbols('x')
             parsed_function_sympy = sp.sympify(function_input)
 
-            a = float(a) if a else None
+            a = float(a) if a else None #test comment
             b = float(b) if b else None
 
             result = integrate_function(parsed_function_sympy, a, b)
